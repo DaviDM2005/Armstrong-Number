@@ -1,0 +1,4 @@
+﻿  Armstrong-Number.cpp
+C:\Users\datam\OneDrive\Desktop\Nothing here\BSU\C++\Armstrong-Number\Armstrong-Number.cpp(6,18): error C3688: invalid literal suffix 's'; literal operator or literal operator template 'operator ""s' not found
+C:\Users\datam\OneDrive\Desktop\Nothing here\BSU\C++\Armstrong-Number\Armstrong-Number.cpp(6,18): message : Literal operator must have a parameter list of the form 'unsigned long long' or 'const char *'
+C:\Users\datam\OneDrive\Desktop\Nothing here\BSU\C++\Armstrong-Number\Armstrong-Number.cpp(18,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
